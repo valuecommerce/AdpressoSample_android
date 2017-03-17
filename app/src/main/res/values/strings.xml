@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AdpressoSample!</string>
+    <string name="app_name">AdpressoSample</string>
+
+    <color name="VersionBackground">#A4C639</color>
+    <color name="MainBackground">#1B97D8</color>
+
+    <string name="title_activity_icon_ad">IconAdActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="iconAdText">Icon Ads</string>
+    <string name="interstitialText">Interstitial Ads</string>
+    <string name="title_activity_banner_ads">BannerAdsActivity</string>
+    <string name="bannerAdText">Banner Ads</string>
+    <string name="writtenInLayout">Written In Layout</string>
+    <string name="createdProgrammatically">Created Programmatically</string>
+    <string name="bannerComment">広告表示するために、AndroidManifest.xmlの下記部分を修正して下さい。\n&lt;meta-data android:name=&quot;Adpresso_Publisher_ID&quot; android:value=&quot;xxx&quot; /></string>
+</resources>
